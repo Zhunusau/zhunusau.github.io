@@ -2,14 +2,14 @@
 
 ### <a name="stages"></a> CONTENT
 
-+ [SUMMARY] (#1)
++ [Summary] (#1)
 + [SKILLS] (#2)
 + [LANGUAGES] (#3)
 + [EDUCATION] (#4)
 + [WORK EXPERIENCE] (#5)
 + [PADAWANS TASKS] (#6)
 
-### <a name="1"></a> SUMMARY
+### <a name="1"></a> Summary
 
 - Enthusiastic
 - Responsible and hardworking
