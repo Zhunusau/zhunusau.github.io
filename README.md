@@ -1,7 +1,5 @@
 ## RUSLAN ZHUNUSAU
 
-*Minsk, Belarus*
-
 ### <a name="stages"></a> CONTENT
 
 + [SUMMARY] (#1)
