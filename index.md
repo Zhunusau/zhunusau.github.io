@@ -1,9 +1,9 @@
-## <a name="stages"></a> RUSLAN ZHUNUSAU
+## RUSLAN ZHUNUSAU
 
 *Minsk, Belarus*
 
 ### <a name="stages"></a> CONTENT
-[Up](#stages)
+
 + [SUMMARY] (#1)
 + [SKILLS] (#2)
 + [LANGUAGES] (#3)
