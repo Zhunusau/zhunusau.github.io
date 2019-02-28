@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## RUSLAN ZHUNUSAU
 
-You can use the [editor on GitHub](https://github.com/Zhunusau/zhunusau.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Minsk, Belarus*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### SUMMARY
 
-### Markdown
+- Enthusiastic
+- Responsible and hardworking
+- I have a great desire to learn new things
+- I have experience working in a team on large projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### EDUCATION
 
-```markdown
-Syntax highlighted code block
+**Belarusian National Technical University** <br>
+Dates of attendance: September 2007 – June 2012 <br>
+Speciality: Electric Power Systems and Networks <br>
+Qualification: Power engineer <br>
 
-# Header 1
-## Header 2
-### Header 3
+**Belarusian State University of Informatics and Radioelectronics** <br>
+Dates of attendance: September 2015 – December 2017 <br>
+Speciality: Information Systems Software <br>
+Qualification: Software development engineer <br>
 
-- Bulleted
-- List
+### WORK EXPERIENCE
 
-1. Numbered
-2. List
+**August 2012 – August 2014 / RUE Brestenergo** <br>
+Master of relay protection and automation <br>
 
-**Bold** and _Italic_ and `Code` text
+**August 2014 – March 2018 / CJSC Power Engineering Solutions** <br>
+Project development engineer of relay protection and automation <br>
 
-[Link](url) and ![Image](src)
-```
+**April 2018 – August 2018 / Godel Technologies Europe** <br>
+Intern .NET developer <br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**September 2018 – until now / Elinext** <br>
+Junior full stack .NET developer <br>
 
-### Jekyll Themes
+### LANGUAGES
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zhunusau/zhunusau.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Belarusian - Native
+- Russian - Second native
+- English - Pre-Intermediate
