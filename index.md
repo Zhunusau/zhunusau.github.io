@@ -9,6 +9,18 @@
 - I have a great desire to learn new things
 - I have experience working in a team on large projects
 
+### SKILLS
+
+- Programming languages: C#, SQL, HTML, CSS
+- Integrated development environment: MS Visual Studio
+- Programming technologies: ASP.NET MVC, ADO.NET Entity Framework, Web Forms, Windows Forms
+
+### LANGUAGES
+
+- Belarusian - Native
+- Russian - Second native
+- English - Pre-Intermediate
+
 ### EDUCATION
 
 **Belarusian National Technical University** <br>
@@ -35,8 +47,19 @@ Intern .NET developer <br>
 **September 2018 – until now / Elinext** <br>
 Junior full stack .NET developer <br>
 
-### LANGUAGES
-
-- Belarusian - Native
-- Russian - Second native
-- English - Pre-Intermediate
+### PADAWANS TASKS
+1. https://github.com/Zhunusau/PadawansTask1
+2. https://github.com/Zhunusau/PadawansTask2
+3. https://github.com/Zhunusau/PadawansTask3
+4. https://github.com/Zhunusau/PadawansTask4
+5. https://github.com/Zhunusau/PadawansTask5
+6. https://github.com/Zhunusau/PadawansTask6
+7. https://github.com/Zhunusau/PadawansTask7
+8. https://github.com/Zhunusau/PadawansTask8
+9. https://github.com/Zhunusau/PadawansTask9
+10. https://github.com/Zhunusau/PadawansTask10
+11. https://github.com/Zhunusau/PadawansTask11
+12. https://github.com/Zhunusau/PadawansTask12
+13. https://github.com/Zhunusau/PadawansTask13
+14. https://github.com/Zhunusau/FancyCalc
+15. https://github.com/Zhunusau/PadawansTask15
