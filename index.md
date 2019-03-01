@@ -2,15 +2,6 @@
 
 *Minsk, Belarus*
 
-### <a name="stages"></a> CONTENT
-
-+ [SUMMARY] (#1)
-+ [SKILLS] (#2)
-+ [LANGUAGES] (#3)
-+ [EDUCATION] (#4)
-+ [WORK EXPERIENCE] (#5)
-+ [PADAWANS TASKS] (#6)
-
 ### <a name="1"></a> SUMMARY
 
 - Enthusiastic
@@ -20,9 +11,9 @@
 
 ### <a name="2"></a> SKILLS
 
-- Programming languages: C#, SQL, HTML, CSS
-- Integrated development environment: MS Visual Studio
-- Programming technologies: ASP.NET MVC, ADO.NET Entity Framework, Web Forms, Windows Forms
+- Programming languages: *C#, SQL, HTML, CSS*
+- Integrated development environment: *MS Visual Studio*
+- Programming technologies: *ASP.NET MVC, ADO.NET Entity Framework, Web Forms, Windows Forms*
 
 ### <a name="3"></a> LANGUAGES
 
@@ -57,7 +48,6 @@ Intern .NET developer <br>
 Junior full stack .NET developer <br>
 
 ### <a name="6"></a> PADAWANS TASKS
-
 1. https://github.com/Zhunusau/PadawansTask1
 2. https://github.com/Zhunusau/PadawansTask2
 3. https://github.com/Zhunusau/PadawansTask3
@@ -73,5 +63,3 @@ Junior full stack .NET developer <br>
 13. https://github.com/Zhunusau/PadawansTask13
 14. https://github.com/Zhunusau/FancyCalc
 15. https://github.com/Zhunusau/PadawansTask15
-
-[Up](#stages)
