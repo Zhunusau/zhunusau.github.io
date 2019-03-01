@@ -1,5 +1,3 @@
-## RUSLAN ZHUNUSAU
-
 *Minsk, Belarus*
 
 ### <a name="1"></a> SUMMARY
