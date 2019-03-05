@@ -7,11 +7,11 @@
 - I have a great desire to learn new things
 - I have experience working in a team on large projects
 
-### <a name="2"></a> SKILLS
+### <a name="2"></a> ABOUT ME
 
-- Programming languages: *C#, SQL, HTML, CSS*
-- Integrated development environment: *MS Visual Studio*
-- Programming technologies: *ASP.NET MVC, ADO.NET Entity Framework, Web Forms, Windows Forms*
+<p>I consider myself an engineer. I like to understand how different machines and systems work. I'm trying to find some logic in everything, since all the machines and even the most complex computers are invented by man. I also think that humanity is wasting too much power and resources, competing with each other. And it's time to learn new technologies and explore space. I admire Ilon Mask and  think that he is doing cool things and he is a cool manager.</p>
+<p>I like to read, but now I don’t always have enough time for this, so now I listen to audiobooks more often. And I usually read books in the road when I get to go somewhere. Yes, I also like to travel with my wife. We have already managed to go somewhere, but there are still a lot of unexplored places left.</p>
+<p>I also like to play sports, it helps me to relax, ride a bike, I like to go to swimming pool at the weekend, sometimes I play chess at chess.com in the evenings, I enjoy martial arts, BJJ and grappling.</p>
 
 ### <a name="3"></a> LANGUAGES
 
