@@ -61,3 +61,5 @@ Junior full stack .NET developer <br>
 13. https://github.com/Zhunusau/PadawansTask13
 14. https://github.com/Zhunusau/FancyCalc
 15. https://github.com/Zhunusau/PadawansTask15
+https://github.com/Zhunusau/FibonacciNumbers
+https://github.com/Zhunusau/TicTacToe
