@@ -62,3 +62,6 @@ Junior full stack .NET developer <br>
 14. https://github.com/Zhunusau/FancyCalc
 15. https://github.com/Zhunusau/PadawansTask15 and https://github.com/Zhunusau/FibonacciNumbers
 - https://github.com/Zhunusau/TicTacToe
+
+### <a name="6"></a> CODEWARS
+https://www.codewars.com/users/zhunik
